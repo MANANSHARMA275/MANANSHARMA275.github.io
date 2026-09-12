@@ -22,6 +22,6 @@ Artificial Intelligence & Machine Learning.
 - Contact
 
 ## Contact
-- Email: sharmamanan275@gmail.com
+- Email: manansharmajpr@gmail.com
 - LinkedIn: linkedin.com/in/manan-sharma-780b13254
 - GitHub: github.com/MANANSHARMA275
